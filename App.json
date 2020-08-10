@@ -980,5 +980,201 @@
         "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz"
       }
     ]
-   }
- ]
+  },
+  {
+    "name": "INDIA",
+    "samples": [
+      {
+        "name": "WoW: Gazi Tv",
+        "uri": "https://itpolly.iptv.digijadoo.net/live/gazi_tv/chunks.m3u8"
+      },
+      {
+        "name": "WoW: Maasranga",
+        "uri": "https://itpolly.iptv.digijadoo.net/live/maasranga/chunks.m3u8"
+      },
+      {
+        "name": "Asian TV",
+        "uri": "https://itpolly.iptv.digijadoo.net/live/asian_tv/chunks.m3u8"
+      },
+      {
+        "name": "ATN Bangla",
+        "uri": "https://itpolly.iptv.digijadoo.net/live/atn_bangla/chunks.m3u8"
+      },
+      {
+        "name": "ATN News",
+        "uri": "https://itpolly.iptv.digijadoo.net/live/atn_news/chunks.m3u8"
+      },
+      {
+        "name": "Banglavision TV",
+        "uri": "https://itpolly.iptv.digijadoo.net/live/bangla_vision/chunks.m3u8"
+      },
+      {
+        "name": "Boishakhi TV",
+        "uri": "https://itpolly.iptv.digijadoo.net/live/boishakhi_tv/chunks.m3u8"
+      },
+      {
+        "name": "BTV World",
+        "uri": "https://itpolly.iptv.digijadoo.net/live/btv_world/chunks.m3u8"
+      },
+      {
+        "name": "Channel 9",
+        "uri": "https://itpolly.iptv.digijadoo.net/live/channel_9/chunks.m3u8"
+      },
+      {
+        "name": "Channel 24",
+        "uri": "https://itpolly.iptv.digijadoo.net/live/channel_24/chunks.m3u8"
+      },
+      {
+        "name": "Channel I",
+        "uri": "https://itpolly.iptv.digijadoo.net/live/channel_i/chunks.m3u8"
+      },
+      {
+        "name": "DBC News",
+        "uri": "https://itpolly.iptv.digijadoo.net/live/dbc_news/chunks.m3u8"
+      },
+      {
+        "name": "Deepto TV",
+        "uri": "https://itpolly.iptv.digijadoo.net/live/deepto_tv/chunks.m3u8"
+      },
+      {
+        "name": "Desh TV",
+        "uri": "https://itpolly.iptv.digijadoo.net/live/desh_tv/chunks.m3u8"
+      },
+      {
+        "name": "Duronto TV",
+        "uri": "https://itpolly.iptv.digijadoo.net/live/duronto_tv/chunks.m3u8"
+      },
+      {
+        "name": "Ekattor TV",
+        "uri": "https://itpolly.iptv.digijadoo.net/live/ekattor_tv/chunks.m3u8"
+      },
+      {
+        "name": "Ekushey TV",
+        "uri": "https://itpolly.iptv.digijadoo.net/live/ekushey_tv/chunks.m3u8"
+      },
+      {
+        "name": "Independent TV",
+        "uri": "https://itpolly.iptv.digijadoo.net/live/independent_tv/chunks.m3u8"
+      },
+      {
+        "name": "Jamuna TV https://iptv.live",
+        "uri": "https://itpolly.iptv.digijadoo.net/live/jamuna_tv/chunks.m3u8"
+      },
+      {
+        "name": "NTV",
+        "uri": "https://itpolly.iptv.digijadoo.net/live/ntv/chunks.m3u8"
+      },
+      {
+        "name": "Nagorik TV",
+        "uri": "https://itpolly.iptv.digijadoo.net/live/nagorik_tv/chunks.m3u8"
+      },
+      {
+        "name": "RTV",
+        "uri": "https://itpolly.iptv.digijadoo.net/live/rtv/playlist.m3u8"
+      },
+      {
+        "name": "SA TV",
+        "uri": "https://itpolly.iptv.digijadoo.net/live/sa_tv/playlist.m3u8"
+      },
+      {
+        "name": "Somoy News",
+        "uri": "https://itpolly.iptv.digijadoo.net/live/somoy_news/chunks.m3u8"
+      },
+      {
+        "name": "Colors Bangla",
+        "uri": "https://itpolly.iptv.digijadoo.net/live/colors_bangla_hd/playlist.m3u8"
+      },
+      {
+        "name": "Star Jalsha",
+        "uri": "https://itpolly.iptv.digijadoo.net/live/star_jalsha_hd/playlist.m3u8"
+      },
+      {
+        "name": "Star Jalsha Movies",
+        "uri": "https://itpolly.iptv.digijadoo.net/live/jalsha_movies/chunks.m3u8"
+      },
+      {
+        "name": "BBC World News",
+        "uri": "https://itpolly.iptv.digijadoo.net/live/bbc_world/playlist.m3u8"
+      },
+      {
+        "name": "CNN",
+        "uri": "https://itpolly.iptv.digijadoo.net/live/cnn/playlist.m3u8"
+      },
+      {
+        "name": "Al Jazeera",
+        "uri": "https://itpolly.iptv.digijadoo.net/live/al_jazeera/playlist.m3u8"
+      },
+      {
+        "name": "DW",
+        "uri": "https://itpolly.iptv.digijadoo.net/live/dw/playlist.m3u8"
+      },
+      {
+        "name": "Star World",
+        "uri": "https://itpolly.iptv.digijadoo.net/live/star_world/playlist.m3u8"
+      },
+      {
+        "name": "Zee TV",
+        "uri": "https://itpolly.iptv.digijadoo.net/live/zee_tv/chunks.m3u8"
+      },
+      {
+        "name": "FOX Life",
+        "uri": "https://itpolly.iptv.digijadoo.net/live/fox_life/chunks.m3u8"
+      },
+      {
+        "name": "History TV",
+        "uri": "https://itpolly.iptv.digijadoo.net/live/history_tv/chunks.m3u8"
+      },
+      {
+        "name": "NAT GEO WILD",
+        "uri": "https://itpolly.iptv.digijadoo.net/live/nat_geo_wild/chunks.m3u8"
+      },
+      {
+        "name": "Gaan Bangla",
+        "uri": "https://itpolly.iptv.digijadoo.net/live/gaan_bangla/chunks.m3u8"
+      },
+      {
+        "name": "Sangeet Bangla",
+        "uri": "https://itpolly.iptv.digijadoo.net/live/sangeet_bangla/chunks.m3u8"
+      },
+      {
+        "name": "Zoom",
+        "uri": "https://itpolly.iptv.digijadoo.net/live/zoom/playlist.m3u8"
+      },
+      {
+        "name": "Zee Bangla",
+        "uri": "https://itpolly.iptv.digijadoo.net/live/zee_bangla/chunks.m3u8"
+      },
+      {
+        "name": "GAZI TV",
+        "uri": "https://itpolly.iptv.digijadoo.net/live/gazi_tv/chunks.m3u8"
+      },
+	  {
+        "name": "ZEE TV",
+        "uri": "https://itpolly.iptv.digijadoo.net/live/zee_tv/chunks.m3u8"
+      },
+      {
+        "name": "ZEE cinema",
+        "uri": "https://itpolly.iptv.digijadoo.net/live/zee_cinema/chunks.m3u8"
+      },
+      {
+        "name": "ZEE BOLLYWOOD",
+        "uri": "https://itpolly.iptv.digijadoo.net/live/zee_classic/chunks.m3u8"
+      },
+      {
+        "name": "STAR PLUS HD",
+        "uri": "https://itpolly.iptv.digijadoo.net/live/star_plus_hd/chunks.m3u8"
+      },
+      {
+        "name": "STAR PLUS HD",
+        "uri": "https://itpolly.iptv.digijadoo.net/live/star_plus/chunks.m3u8"
+      },
+      {
+        "name": "STAR GOLD",
+        "uri": "https://itpolly.iptv.digijadoo.net/live/star_gold/chunks.m3u8"
+      },
+      {
+        "name": "Colors",
+        "uri": "https://itpolly.iptv.digijadoo.net/live/colors_hd/chunks.m3u8"
+      }
+    ]
+  }
