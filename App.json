@@ -920,7 +920,7 @@
         "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz"
       },
       {
-        "name": "ZEE TV",
+        "name": "Zee TV",
         "uri": "https://liveanevia.mncnow.id/live/eds/ZeeTV/sa_dash_vmx/ZeeTV.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz"
@@ -1164,8 +1164,8 @@
   },
   {
     "name": "CHINA CCTV",
-    "samples": [
-      {
+            "samples": [
+       {
         "name": "CCTV-4K",
         "uri": "http://180.97.123.180/sk.live.otvcloud.com/otv/skcc/live/channel51021/2300.m3u8"
       },
