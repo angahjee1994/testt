@@ -51,10 +51,18 @@
         "uri": "https://fvtv.mywire.org/playlist/uwn5qna2wm-qywbpjhcrm.m3u8"
       },
       {
+        "name": "OKEY",
+        "uri": "https://rtmokeymobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b2064000.m3u8"
+      },
+      {
         "name": "PARLIMEN",
         "uri": "http://1.9.58.102/PLTV/88888888/224/3221227546/3221227546.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "http://1.9.58.113:8063/?deviceId=NWE2YzliZTQtMWYwYS0zNjdiLWI2ZWQtZTY1MmQzZGE5YTQw"
+      },
+      {
+        "name": "AWANI",
+        "uri": "https://bcsecurelivehls-i.akamaihd.net/hls/live/722763/4508222217001/stream04/streamPlaylist.m3u8"
       },
       {
         "name": "BERNAMA",
@@ -415,6 +423,10 @@
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227705/3221227705.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "http://1.9.58.113:8063/?deviceId=NWE2YzliZTQtMWYwYS0zNjdiLWI2ZWQtZTY1MmQzZGE5YTQw"
+      },
+      {
+        "name": "BEIN SPORT XTRA",
+        "uri": "https://fvtv.mywire.org/playlist/bv6thk0ahh-g3zhk99v9q.m3u8"
       },
       {
         "name": "FOX SPORTS HD",
