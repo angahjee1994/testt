@@ -484,7 +484,7 @@
       },
       {
         "name": "BEIN SPORTS XTRA",
-        "uri": "https://fvtv.mywire.org/playlist/bv6thk0ahh-g3zhk99v9q.m3u8",
+        "uri": "https://bein-xtra-roku.amagi.tv/ingest/playlist.m3u8",
         "drm_scheme": "widevine",
         "drm_license_url": "http://1.9.58.113:8063/?deviceId=NWE2YzliZTQtMWYwYS0zNjdiLWI2ZWQtZTY1MmQzZGE5YTQw"
       },
