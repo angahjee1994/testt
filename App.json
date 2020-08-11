@@ -40,35 +40,51 @@
       },
       {
         "name": "WARNA",
-        "uri": "https://delivery.agsgroup.tech/stream/astro_warna/playlist.m3u8?token=FtnuN&v=20200308"
+        "uri": "https://delivery.agsgroup.tech/stream/astro_warna/playlist.m3u8?token=FtnuN&v=20200308",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063/?deviceId=NWE2YzliZTQtMWYwYS0zNjdiLWI2ZWQtZTY1MmQzZGE5YTQw"
       },
       {
         "name": "RIA",
-        "uri": "https://delivery.agsgroup.tech/stream/astro_ria/playlist.m3u8?token=FtnuN&v=20200308"
+        "uri": "https://delivery.agsgroup.tech/stream/astro_ria/playlist.m3u8?token=FtnuN&v=20200308",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063/?deviceId=NWE2YzliZTQtMWYwYS0zNjdiLWI2ZWQtZTY1MmQzZGE5YTQw"
       },
       {
         "name": "PRIMA",
-        "uri": "https://delivery.agsgroup.tech/stream/astro_prima/playlist.m3u8?token=FtnuN&v=20200308"
+        "uri": "https://delivery.agsgroup.tech/stream/astro_prima/playlist.m3u8?token=FtnuN&v=20200308",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063/?deviceId=NWE2YzliZTQtMWYwYS0zNjdiLWI2ZWQtZTY1MmQzZGE5YTQw"
       },
       {
         "name": "OASIS",
-        "uri": "https://delivery.agsgroup.tech/stream/astro_oasis/playlist.m3u8?token=FtnuN&v=20200308"
+        "uri": "https://delivery.agsgroup.tech/stream/astro_oasis/playlist.m3u8?token=FtnuN&v=20200308",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063/?deviceId=NWE2YzliZTQtMWYwYS0zNjdiLWI2ZWQtZTY1MmQzZGE5YTQw"
       },
       {
         "name": "CERIA",
-        "uri": "https://delivery.agsgroup.tech/stream/astro_ceria/playlist.m3u8?token=FtnuN&v=20200308"
+        "uri": "https://delivery.agsgroup.tech/stream/astro_ceria/playlist.m3u8?token=FtnuN&v=20200308",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063/?deviceId=NWE2YzliZTQtMWYwYS0zNjdiLWI2ZWQtZTY1MmQzZGE5YTQw"
       },
       {
         "name": "HELLO",
-        "uri": "https://agsplayback01.astro.com.my/CH1/master_HELLOGOSHOP6.m3u8"
+        "uri": "https://agsplayback01.astro.com.my/CH1/master_HELLOGOSHOP6.m3u8",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063/?deviceId=NWE2YzliZTQtMWYwYS0zNjdiLWI2ZWQtZTY1MmQzZGE5YTQw"
       },
       {
         "name": "NAURA",
-        "uri": "https://agsplayback01.astro.com.my/CH2/master_NAURAGOSHOP4.m3u8"
+        "uri": "https://agsplayback01.astro.com.my/CH2/master_NAURAGOSHOP4.m3u8",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063/?deviceId=NWE2YzliZTQtMWYwYS0zNjdiLWI2ZWQtZTY1MmQzZGE5YTQw"
       },
       {
         "name": "OKEY",
-        "uri": "https://rtmokeymobile.secureswiftcontent.com/Origin02/ngrp:RTM2/playlist.m3u8"
+        "uri": "https://rtmokeymobile.secureswiftcontent.com/Origin02/ngrp:RTM2/playlist.m3u8",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063/?deviceId=NWE2YzliZTQtMWYwYS0zNjdiLWI2ZWQtZTY1MmQzZGE5YTQw"
       },
       {
         "name": "PARLIMEN",
@@ -78,7 +94,9 @@
       },
       {
         "name": "AWANI",
-        "uri": "https://bcsecurelivehls-i.akamaihd.net/hls/live/722763/4508222217001/stream04/streamPlaylist.m3u8"
+        "uri": "https://bcsecurelivehls-i.akamaihd.net/hls/live/722763/4508222217001/stream04/streamPlaylist.m3u8",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063/?deviceId=NWE2YzliZTQtMWYwYS0zNjdiLWI2ZWQtZTY1MmQzZGE5YTQw"
       },
       {
         "name": "BERNAMA",
@@ -352,27 +370,39 @@
       },
       {
         "name": "HBO multi",
-        "uri": "https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8"
+        "uri": "https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063/?deviceId=NWE2YzliZTQtMWYwYS0zNjdiLWI2ZWQtZTY1MmQzZGE5YTQw"
       },
       {
         "name": "HBO HITS multi",
-        "uri": "https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8"
+        "uri": "https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063/?deviceId=NWE2YzliZTQtMWYwYS0zNjdiLWI2ZWQtZTY1MmQzZGE5YTQw"
       },
       {
         "name": "HBO FAMILY multi",
-        "uri": "https://liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/index.m3u8"
+        "uri": "https://liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/index.m3u8",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063/?deviceId=NWE2YzliZTQtMWYwYS0zNjdiLWI2ZWQtZTY1MmQzZGE5YTQw"
       },
       {
         "name": "HBO SIGNATURE multi",
-        "uri": "https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/index.m3u8"
+        "uri": "https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/index.m3u8",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063/?deviceId=NWE2YzliZTQtMWYwYS0zNjdiLWI2ZWQtZTY1MmQzZGE5YTQw"
       },
       {
         "name": "RED BY HBO multi",
-        "uri": "https://liveorigin01.hbogoasia.com:8443/origin/live/main/RED/index.m3u8"
+        "uri": "https://liveorigin01.hbogoasia.com:8443/origin/live/main/RED/index.m3u8",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063/?deviceId=NWE2YzliZTQtMWYwYS0zNjdiLWI2ZWQtZTY1MmQzZGE5YTQw"
       },
       {
         "name": "CINEMAX multi",
-        "uri": "https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8"
+        "uri": "https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063/?deviceId=NWE2YzliZTQtMWYwYS0zNjdiLWI2ZWQtZTY1MmQzZGE5YTQw"
       },
       {
         "name": "FOX MOVIES",
@@ -418,7 +448,9 @@
       },
       {
         "name": "RTM SPORTS",
-        "uri": "https://rtmsportshdmobile.secureswiftcontent.com/Origin02/ngrp:RTM2/playlist.m3u8"
+        "uri": "https://rtmsportshdmobile.secureswiftcontent.com/Origin02/ngrp:RTM2/playlist.m3u8",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063/?deviceId=NWE2YzliZTQtMWYwYS0zNjdiLWI2ZWQtZTY1MmQzZGE5YTQw"
       },
       {
         "name": "UNIFI SPORTS 1",
@@ -452,7 +484,9 @@
       },
       {
         "name": "BEIN SPORTS XTRA",
-        "uri": "https://fvtv.mywire.org/playlist/bv6thk0ahh-g3zhk99v9q.m3u8"
+        "uri": "https://fvtv.mywire.org/playlist/bv6thk0ahh-g3zhk99v9q.m3u8",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063/?deviceId=NWE2YzliZTQtMWYwYS0zNjdiLWI2ZWQtZTY1MmQzZGE5YTQw"
       },
       {
         "name": "FOX SPORTS HD",
@@ -777,7 +811,9 @@
       },
       {
         "name": "Discovery Asia",
-        "uri": "http://103.47.132.164/PLTV/88888888/224/3221227161/index.m3u8"
+        "uri": "http://103.47.132.164/PLTV/88888888/224/3221227161/index.m3u8",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063/?deviceId=NWE2YzliZTQtMWYwYS0zNjdiLWI2ZWQtZTY1MmQzZGE5YTQw"
       },
       {
         "name": "Animal Planet",
@@ -865,7 +901,9 @@
       },
       {
         "name": "RED BY HBO",
-        "uri": "https://liveorigin01.hbogoasia.com:8443/origin/live/main/RED/index.m3u8"
+        "uri": "https://liveorigin01.hbogoasia.com:8443/origin/live/main/RED/index.m3u8",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063/?deviceId=NWE2YzliZTQtMWYwYS0zNjdiLWI2ZWQtZTY1MmQzZGE5YTQw"
       },
       {
         "name": "Cinemax",
