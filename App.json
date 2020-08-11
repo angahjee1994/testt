@@ -395,6 +395,10 @@
         "drm_license_url": "http://1.9.58.113:8063/?deviceId=NWE2YzliZTQtMWYwYS0zNjdiLWI2ZWQtZTY1MmQzZGE5YTQw"
       },
       {
+        "name": "RTM SPORTS",
+        "uri": "https://rtmsportshdmobile.secureswiftcontent.com/Origin02/ngrp:RTM2/playlist.m3u8"
+      },
+      {
         "name": "UNIFI SPORTS 1",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227675/3221227675.mpd",
         "drm_scheme": "widevine",
@@ -425,7 +429,7 @@
         "drm_license_url": "http://1.9.58.113:8063/?deviceId=NWE2YzliZTQtMWYwYS0zNjdiLWI2ZWQtZTY1MmQzZGE5YTQw"
       },
       {
-        "name": "BEIN SPORT XTRA",
+        "name": "BEIN SPORTS XTRA",
         "uri": "https://fvtv.mywire.org/playlist/bv6thk0ahh-g3zhk99v9q.m3u8"
       },
       {
