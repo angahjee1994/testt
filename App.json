@@ -960,6 +960,12 @@
         "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz"
       },
       {
+        "name": "SINEMA INDONESIA",
+        "uri": "http://103.47.132.164/PLTV/88888888/224/3221227233/index.m3u8",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz"
+      },
+      {
         "name": "Zee Bioskop",
         "uri": "https://liveanevia.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd",
         "drm_scheme": "widevine",
@@ -1144,13 +1150,13 @@
         "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz"
       },
       {
-        "name": "STAR JALSHSTAR",
+        "name": "STAR JALSHA",
         "uri": "https://itpolly.iptv.digijadoo.net/live/star_jalsha_hd/playlist.m3u8",
         "drm_scheme": "widevine",
         "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz"
       },
       {
-        "name": "STAR JALSHSTAR MOVIES",
+        "name": "STAR JALSHA MOVIES",
         "uri": "https://itpolly.iptv.digijadoo.net/live/jalsha_movies/playlist.m3u8",
         "drm_scheme": "widevine",
         "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz"
@@ -1194,6 +1200,24 @@
       {
         "name": "STAR GOLD",
         "uri": "https://itpolly.iptv.digijadoo.net/live/star_gold/playlist.m3u8",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz"
+      },
+      {
+        "name": "AND FLIX",
+        "uri": "https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz"
+      },
+      {
+        "name": "AND PRIVE",
+        "uri": "http://103.214.202.218:8081/live/andprive-28/chunks.m3u8",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz"
+      },
+      {
+        "name": "ROMEDY NOW",
+        "uri": "https://timesnow.airtel.tv/live/RN_pull/master.m3u8",
         "drm_scheme": "widevine",
         "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz"
       },
