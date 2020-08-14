@@ -1104,7 +1104,7 @@
       },
 	  {
         "name": "MOVIES NOW",
-        "uri": "https://timesnow.airtel.tv/live/RN_pull/master.m3u8",
+        "uri": "https://timesnow.airtel.tv/live/MN_pull/master.m3u8",
         "drm_scheme": "widevine",
         "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz"
       },
