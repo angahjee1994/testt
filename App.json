@@ -1070,11 +1070,118 @@
     ]
   },
   {
-    "name": "SINGAPORE",
+    "name": "MOVIES",
     "samples": [
       {
         "name": "SURIA",
         "uri": "https://d11h6a6nhl9kj9.cloudfront.net/hls/suriactv/master02.m3u8",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz"
+      },{
+        "name": "ELESTIAL MOVIE",
+        "uri": "https://liveanevia.mncnow.id/live/eds/CelestialMovie/sa_dash_vmx/CelestialMovie.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz"
+      },
+      {
+        "name": "CELESTIAL CLASSIC MOVIE",
+        "uri": "https://liveanevia.mncnow.id/live/eds/CelestialClassic/sa_dash_vmx/CelestialClassic.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz"
+      },
+      {
+        "name": "STAR CHINESE MOVIES",
+        "uri": "https://liveanevia.mncnow.id/live/eds/SCM/sa_dash_vmx/SCM.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz"
+      },
+      {
+        "name": "STAR CHINESE LEGEND",
+        "uri": "https://liveanevia.mncnow.id/live/eds/SCMlegend/sa_dash_vmx/SCMlegend.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz"
+      },
+      {
+        "name": "TVN MOVIES",
+        "uri": "https://liveanevia.mncnow.id/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz"
+      },
+      {
+        "name": "THRILL",
+        "uri": "https://liveanevia.mncnow.id/live/eds/Thrill/sa_dash_vmx/Thrill.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz"
+      },
+      {
+        "name": "CINEMAWORLD",
+        "uri": "https://liveanevia.mncnow.id/live/eds/CinemaWorld/sa_dash_vmx/CinemaWorld.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz"
+      },
+      {
+        "name": "PARAMOUNT CHANNEL HD",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227565/3221227565.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063/?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4"
+      },
+      {
+        "name": "HBO",
+        "uri": "https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063/?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4"
+      },
+      {
+        "name": "HBO HITS",
+        "uri": "https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063/?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4"
+      },
+      {
+        "name": "HBO FAMILY",
+        "uri": "https://liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/index.m3u8",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063/?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4"
+      },
+      {
+        "name": "HBO SIGNATURE",
+        "uri": "https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/index.m3u8",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063/?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4"
+      },
+      {
+        "name": "RED BY HBO,
+        "uri": "https://liveorigin01.hbogoasia.com:8443/origin/live/main/RED/index.m3u8",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063/?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4"
+      },
+      {
+        "name": "CINEMAX",
+        "uri": "https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063/?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4"
+      },
+      {
+        "name": "HITS MOVIES",
+        "uri": "https://liveanevia.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz"
+      },
+      {
+        "name": "FOX MOVIES",
+        "uri": "https://liveanevia.mncnow.id/live/eds/FOXMoviesPremium/sa_dash_vmx/FOXMoviesPremium.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz"
+      },
+      {
+        "name": "FOX FAMILY MOVIES",
+        "uri": "https://liveanevia.mncnow.id/live/eds/FoxFamilyMovies/sa_dash_vmx/FoxFamilyMovies.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz"
+      },
+      {
+        "name": "FOX ACTION MOVIES",
+        "uri": "https://liveanevia.mncnow.id/live/eds/FoxActionMovies/sa_dash_vmx/FoxActionMovies.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz"
       },
@@ -1105,119 +1212,6 @@
       {
         "name": "Clubbing TV",
         "uri": "https://liveanevia.mncnow.id/live/eds/ClubbingTV/sa_dash_vmx/ClubbingTV.mpd",
-        "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz"
-      }
-    ]
-  },
-  {
-    "name": "INDIA",
-    "samples": [
-      {
-        "name": "COLORS",
-        "uri": "https://itpolly.iptv.digijadoo.net/live/colors_hd/playlist.m3u8",
-        "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz"
-      },
-      {
-        "name": "COLORS BANGLA",
-        "uri": "https://itpolly.iptv.digijadoo.net/live/colors_bangla_hd/playlist.m3u8",
-        "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz"
-      },
-      {
-        "name": "STAR JALSHA",
-        "uri": "https://itpolly.iptv.digijadoo.net/live/star_jalsha_hd/playlist.m3u8",
-        "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz"
-      },
-      {
-        "name": "STAR JALSHA MOVIES",
-        "uri": "https://itpolly.iptv.digijadoo.net/live/jalsha_movies/playlist.m3u8",
-        "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz"
-      },
-      {
-        "name": "STAR WORLD",
-        "uri": "https://itpolly.iptv.digijadoo.net/live/star_world/playlist.m3u8",
-        "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz"
-      },
-      {
-        "name": "ZEE TV",
-        "uri": "https://itpolly.iptv.digijadoo.net/live/zee_tv/playlist.m3u8",
-        "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz"
-      },
-      {
-        "name": "ZEE BANGLA",
-        "uri": "https://itpolly.iptv.digijadoo.net/live/zee_bangla/playlist.m3u8",
-        "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz"
-      },
-      {
-        "name": "ZEE CINEMA",
-        "uri": "https://itpolly.iptv.digijadoo.net/live/zee_cinema/playlist.m3u8",
-        "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz"
-      },
-      {
-        "name": "ZEE CLASSIC",
-        "uri": "https://itpolly.iptv.digijadoo.net/live/zee_classic/playlist.m3u8",
-        "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz"
-      },
-      {
-        "name": "STAR PLUS",
-        "uri": "https://itpolly.iptv.digijadoo.net/live/star_plus_hd/playlist.m3u8",
-        "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz"
-      },
-      {
-        "name": "STAR GOLD",
-        "uri": "https://itpolly.iptv.digijadoo.net/live/star_gold/playlist.m3u8",
-        "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz"
-      },
-      {
-        "name": "AND FLIX",
-        "uri": "http://103.214.202.218:8081/live/andflix-29/playlist.m3u8",
-        "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz"
-      },
-      {
-        "name": "AND PRIVE",
-        "uri": "http://103.214.202.218:8081/live/andprive-28/playlist.m3u8",
-        "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz"
-      },
-      {
-        "name": "MOVIE NOW",
-        "uri": "https://timesnow.airtel.tv/live/MN_pull/master.m3u8",
-        "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz"
-      },
-      {
-        "name": "MNX",
-        "uri": "https://timesnow.airtel.tv/live/MNX_pull/master.m3u8",
-        "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz"
-      },
-      {
-        "name": "ROMEDY NOW",
-        "uri": "https://timesnow.airtel.tv/live/RN_pull/master.m3u8",
-        "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz"
-      },
-      {
-        "name": "B4U MUSIC",
-        "uri": "http://103.199.161.254/Content/B4Umusic/Live/Channel(B4Umusic)/index.m3u8",
-        "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz"
-      },
-      {
-        "name": "ZOOM",
-        "uri": "https://itpolly.iptv.digijadoo.net/live/zoom/playlist.m3u8",
         "drm_scheme": "widevine",
         "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz"
       }
