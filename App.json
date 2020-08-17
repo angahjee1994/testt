@@ -45,42 +45,6 @@
         "drm_license_url": "http://1.9.58.113:8063/?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4"
       },
       {
-        "name": "RIA",
-        "uri": "http://185.59.222.189:25461/liviu_lupsor1-mac/BfrB7ieKEt/110155?play_token=tBxIJhxFIe&token=GRdRWUpbQV9BBAFTUAIAVgFVCVJQBwsCVgFcBAACC1BSVgEPWFJRUFIRFEQQFxAGVQxnD1YVCVACU1YFAE8aRBFQS2dQV0FfQQILXlNWUVAWTRoSW1pWQwlSUQsHUA8GVgABFBtDCgFBCVYTDw9OQVEZTANAWVINbAcBRFkAXRNYW0xUVR9BCg1sXAMOAgwHFlsaVxAbEQhAE0YIXhZUXU4XW1FNQQIRBhECCBYPDk8WAlcTXENBGBFZRn9pQRQTB01NXVdACgoNEQJEFxBATxYISzlAUkAVQQYFX1URGgtABRsUG14CHTxQVwgNBgEXXQ5WFRANEVART0ZfXw1RRQ1HZkhQV0FfDUZUCh4=",
-        "drm_scheme": "widevine",
-        "drm_license_url": "http://1.9.58.113:8063/?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4"
-      },
-      {
-        "name": "PRIMA",
-        "uri": "http://185.59.222.189:25461/liviu_lupsor1-mac/BfrB7ieKEt/110156?play_token=tBxIJhxFIe&token=GRdRWUpbQV9BBAFTUAIAVgFVCVJQBwsCVgFcBAACC1BSVgEPWFJRUFIRFEQQFxAGVQxnD1YVCVACU1YFAE8aRBFQS2dQV0FfQQILXlNWUVAWTRoSW1pWQwlSUQsHUA8GVgABFBtDCgFBCVYTDw9OQVEZTANAWVINbAcBRFkAXRNYW0xUVR9BCg1sXAMOAgwHFlsaVxAbEQhAE0YIXhZUXU4XW1FNQQIRBhECCBYPDk8WAlcTXENBGBFZRn9pQRQTB01NXVdACgoNEQJEFxBATxYISzlAUkAVQQYFX1URGgtABRsUG14CHTxQVwgNBgEXXQ5WFRANEVART0ZfXw1RRQ1HZkhQV0FfDUZUCh4=",
-        "drm_scheme": "widevine",
-        "drm_license_url": "http://1.9.58.113:8063/?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4"
-      },
-      {
-        "name": "OASIS",
-        "uri": "http://185.59.222.189:25461/liviu_lupsor1-mac/BfrB7ieKEt/110157?play_token=tBxIJhxFIe&token=GRdRWUpbQV9BBAFTUAIAVgFVCVJQBwsCVgFcBAACC1BSVgEPWFJRUFIRFEQQFxAGVQxnD1YVCVACU1YFAE8aRBFQS2dQV0FfQQILXlNWUVAWTRoSW1pWQwlSUQsHUA8GVgABFBtDCgFBCVYTDw9OQVEZTANAWVINbAcBRFkAXRNYW0xUVR9BCg1sXAMOAgwHFlsaVxAbEQhAE0YIXhZUXU4XW1FNQQIRBhECCBYPDk8WAlcTXENBGBFZRn9pQRQTB01NXVdACgoNEQJEFxBATxYISzlAUkAVQQYFX1URGgtABRsUG14CHTxQVwgNBgEXXQ5WFRANEVART0ZfXw1RRQ1HZkhQV0FfDUZUCh4=",
-        "drm_scheme": "widevine",
-        "drm_license_url": "http://1.9.58.113:8063/?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4"
-      },
-      {
-        "name": "WARNA",
-        "uri": "http://185.59.222.189:25461/liviu_lupsor1-mac/BfrB7ieKEt/110158?play_token=tBxIJhxFIe&token=GRdRWUpbQV9BBAFTUAIAVgFVCVJQBwsCVgFcBAACC1BSVgEPWFJRUFIRFEQQFxAGVQxnD1YVCVACU1YFAE8aRBFQS2dQV0FfQQILXlNWUVAWTRoSW1pWQwlSUQsHUA8GVgABFBtDCgFBCVYTDw9OQVEZTANAWVINbAcBRFkAXRNYW0xUVR9BCg1sXAMOAgwHFlsaVxAbEQhAE0YIXhZUXU4XW1FNQQIRBhECCBYPDk8WAlcTXENBGBFZRn9pQRQTB01NXVdACgoNEQJEFxBATxYISzlAUkAVQQYFX1URGgtABRsUG14CHTxQVwgNBgEXXQ5WFRANEVART0ZfXw1RRQ1HZkhQV0FfDUZUCh4=",
-        "drm_scheme": "widevine",
-        "drm_license_url": "http://1.9.58.113:8063/?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4"
-      },
-      {
-        "name": "CITRA",
-        "uri": "http://185.59.222.189:25461/liviu_lupsor1-mac/BfrB7ieKEt/110270?play_token=tBxIJhxFIe&token=GRdRWUpbQV9BBAFTUAIAVgFVCVJQBwsCVgFcBAACC1BSVgEPWFJRUFIRFEQQFxAGVQxnD1YVCVACU1YFAE8aRBFQS2dQV0FfQQILXlNWUVAWTRoSW1pWQwlSUQsHUA8GVgABFBtDCgFBCVYTDw9OQVEZTANAWVINbAcBRFkAXRNYW0xUVR9BCg1sXAMOAgwHFlsaVxAbEQhAE0YIXhZUXU4XW1FNQQIRBhECCBYPDk8WAlcTXENBGBFZRn9pQRQTB01NXVdACgoNEQJEFxBATxYISzlAUkAVQQYFX1URGgtABRsUG14CHTxQVwgNBgEXXQ5WFRANEVART0ZfXw1RRQ1HZkhQV0FfDUZUCh4=",
-        "drm_scheme": "widevine",
-        "drm_license_url": "http://1.9.58.113:8063/?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4"
-      },
-      {
-        "name": "CERIA",
-        "uri": "http://185.59.222.189:25461/liviu_lupsor1-mac/BfrB7ieKEt/110228?play_token=tBxIJhxFIe&token=GRdRWUpbQV9BBAFTUAIAVgFVCVJQBwsCVgFcBAACC1BSVgEPWFJRUFIRFEQQFxAGVQxnD1YVCVACU1YFAE8aRBFQS2dQV0FfQQILXlNWUVAWTRoSW1pWQwlSUQsHUA8GVgABFBtDCgFBCVYTDw9OQVEZTANAWVINbAcBRFkAXRNYW0xUVR9BCg1sXAMOAgwHFlsaVxAbEQhAE0YIXhZUXU4XW1FNQQIRBhECCBYPDk8WAlcTXENBGBFZRn9pQRQTB01NXVdACgoNEQJEFxBATxYISzlAUkAVQQYFX1URGgtABRsUG14CHTxQVwgNBgEXXQ5WFRANEVART0ZfXw1RRQ1HZkhQV0FfDUZUCh4=",
-        "drm_scheme": "widevine",
-        "drm_license_url": "http://1.9.58.113:8063/?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4"
-      },
-      {
         "name": "HELLO",
         "uri": "https://agsplayback01.astro.com.my/CH1/master_HELLOGOSHOP6.m3u8",
         "drm_scheme": "widevine",
@@ -1121,24 +1085,6 @@
         "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz"
       },
 	  {
-        "name": "AND PICTURE",
-        "uri": "http://103.214.202.218:8081/live/andpicture-26/playlist.m3u8",
-        "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz"
-      },
-	  {
-        "name": "ZEE CAFE",
-        "uri": "http://103.214.202.218:8081/live/zeecafe-30/playlist.m3u8",
-        "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz"
-      },
-	  {
-        "name": "STAR MOVIES SELECT",
-        "uri": "http://87.117.234.107:1935/live/StarMovies_SELECT_HD/playlists.m3u8",
-        "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz"
-      },
-	  {
         "name": "MOVIES NOW",
         "uri": "https://timesnow.airtel.tv/live/MN_pull/master.m3u8",
         "drm_scheme": "widevine",
@@ -1249,12 +1195,6 @@
       {
         "name": "RED BY HBO",
         "uri": "https://liveorigin01.hbogoasia.com:8443/origin/live/main/RED/index.m3u8",
-        "drm_scheme": "widevine",
-        "drm_license_url": "http://1.9.58.113:8063/?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4"
-      },
-      {
-        "name": "HBO IN",
-        "uri": "http://tamilgo.com/api/auth/jio/jiostream.m3u8?c=Hbo_HD",
         "drm_scheme": "widevine",
         "drm_license_url": "http://1.9.58.113:8063/?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4"
       },
