@@ -4,11 +4,11 @@
 	"channelMeta": [{
 		"name": "tv1",
 		"icon": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f4/Logo_of_TV1_%28Malaysia%29.svg/1200px-Logo_of_TV1_%28Malaysia%29.svg.png",
-		"link": "http://1.9.62.158/PLTV/88888888/224/3221227709/3221227709.mpd",
+		"link": "https://liveanevia.mncnow.id/live/eds/HBOSignature/sa_dash_vmx/HBOSignature.mpd",
 		"category": 5,
 		"language": 1,
 		"isHD": true,
 		"drm_scheme": "widevine",
-		"drm_license_url": "http://1.9.58.113:8063/?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4",
+		"drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz"
 	}]
 }
