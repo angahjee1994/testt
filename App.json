@@ -1255,19 +1255,13 @@
       },
       {
         "name": "VISIT-X TV",
-        "uri": "http://stream.visit-x.tv:1935/vxtv/live_720p/playlist.m3u8",
+        "uri": "https://stream.visit-x.tv/vxtv/live/playlist.m3u8",
         "drm_scheme": "widevine",
         "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz"
       },
       {
         "name": "MIAMI TV",
         "uri": "https://59ec5453559f0.streamlock.net/miamitv/smil:miamitvROKU/playlist.m3u8",
-        "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz"
-      },
-      {
-        "name": "MIAMI TV JENNY LIVE",
-        "uri": "https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexicoROKU/playlist.m3u8",
         "drm_scheme": "widevine",
         "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz"
       },
