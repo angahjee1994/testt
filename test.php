@@ -1,6 +1,6 @@
 <?php
 //Token
-$url1 = "https://services.iol.pt/matrix?userId=";
+$url1 = "http://oxax.tv/pl.js?_=1598047040498";
 
 $options = array(
   'http'=>array(
