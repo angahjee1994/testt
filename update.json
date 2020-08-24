@@ -1,0 +1,16 @@
+{
+  "status": "success",
+  "live": "$",
+  "catchup": "",
+  "versionName": "1.5.1",
+  "versionCode": 51,
+  "title": "Update Available",
+  "message": "Pleasae Update the app from playstore",
+  "isCancellable": false,
+  "positiveButton": "Update",
+  "negativeButton": "Close",
+  "updateUrl": "",
+  "channelListUrl": "",
+  "host": "",
+  "ads": "0000"
+}
