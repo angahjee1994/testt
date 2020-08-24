@@ -2,8 +2,8 @@
 	"code": 200,
 	"message": "Success",
 	"channelMeta": [{
-		"name": "tv1",
-		"icon": "http://shortfilmsite.com/images/tv/podhigai.jpg",
+		"name": "TV1",
+		"icon": "https://www.appcreator24.com/srv/imgs/seccs/9428036_ico.png",
 		"link": "https://rtm1mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/playlist.m3u8",
 		"category": 5,
 		"language": 1,
@@ -20,14 +20,14 @@
 		"drm_scheme": "widevine",
 		"drm_license_url": ""
 	}, {
-		"name": "TVI TV",
-		"icon": "https://s3.ap-south-1.amazonaws.com/jeyarajkumar/localchannel/images/tvihd_tv.png",
-		"link": "http://live.tamilvision.tv:8081/TVI/SD/chunks.m3u8",
+		"name": "TV3",
+		"icon": "https://www.appcreator24.com/srv/imgs/seccs/9428038_ico.png",
+		"link": "http://1.9.58.102/PLTV/88888888/224/3221227779/3221227779.mpd",
 		"category": 5,
 		"language": 1,
 		"isHD": true,
 		"drm_scheme": "widevine",
-		"drm_license_url": ""
+		"drm_license_url": "http://1.9.58.113:8063/?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4"
 	}, {
 		"name": "Athavan Music",
 		"icon": "http://shortfilmsite.com/images/tv/athavanmusichd.jpg",
