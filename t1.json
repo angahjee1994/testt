@@ -2,9 +2,9 @@
 	"code": 200,
 	"message": "Success",
 	"channelMeta": [{
-		"name": "DD Podhigai",
+		"name": "tv1",
 		"icon": "http://shortfilmsite.com/images/tv/podhigai.jpg",
-		"link": "https://m-c15-j2apps.s.llnwi.net/hls/0250.DDPodhigai.in.m3u8",
+		"link": "https://rtm1mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/playlist.m3u8",
 		"category": 5,
 		"language": 1,
 		"isHD": true,
