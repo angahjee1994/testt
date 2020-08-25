@@ -28,14 +28,5 @@
 		"isHD": true,
 		"drm_scheme": "widevine",
 		"drm_license_url": "http://1.9.58.113:8063/?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4"
-	}, {
-		"name": "FOX MOVIES",
-		"icon": "https://www.appcreator24.com/srv/imgs/seccs/9428181_ico.png",
-		"link": "https://liveanevia.mncnow.id/live/eds/FOXMoviesPremium/sa_dash_vmx/FOXMoviesPremium.mpd",
-		"category": 15,
-		"language": 1,
-		"isHD": true,
-		"drm_scheme": "widevine",
-		"drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz"
 	}]
 }
