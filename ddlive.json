@@ -1,7 +1,7 @@
 [{
-	"name": "DD News",
-	"icon": "mxddnews.jpg",
-	"link": "UCKwucPzHZ7zCUIf7If-Wo1g",
+	"name": "TV1",
+	"icon": "https://www.appcreator24.com/srv/imgs/seccs/9428036_ico.png",
+	"link": "https://rtm1mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/playlist.m3u8",
 	"drm_scheme": "",
 	"drm_license_url": "",
 	"us_ag": "",
@@ -16,11 +16,11 @@
 	"visibility": "yes",
 	"channel_id": 0
 }, {
-	"name": "DD National",
-	"icon": "mxddNational.jpg",
-	"link": "https://m-c036-j2apps.s.llnwi.net/hls/0098.DDNational.in.m3u8",
-	"drm_scheme": "",
-	"drm_license_url": "",
+	"name": "TV3",
+	"icon": "https://www.appcreator24.com/srv/imgs/seccs/9428038_ico.png",
+	"link": "http://1.9.58.102/PLTV/88888888/224/3221227779/3221227779.mpd",
+	"drm_scheme": "widevine",
+	"drm_license_url": "http://1.9.58.113:8063/?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4",
 	"us_ag": "",
 	"refe": "",
 	"orig": "",
