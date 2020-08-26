@@ -417,12 +417,6 @@
         "drm_license_url": "http://1.9.58.113:8063/?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4"
       },
       {
-        "name": "MTV LIVE HD",
-        "uri": "https://macan.live/live/macangratisan/1595610899/54.m3u8",
-        "drm_scheme": "widevine",
-        "drm_license_url": "http://1.9.58.113:8063/?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4"
-      },
-      {
         "name": "RTM SPORTS",
         "uri": "https://rtmsportshdmobile.secureswiftcontent.com/Origin02/ngrp:RTM2/playlist.m3u8",
         "drm_scheme": "widevine",
