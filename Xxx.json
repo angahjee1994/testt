@@ -139,6 +139,14 @@
         "uri": "http://50.7.172.58:8081/16/index.m3u8?wmsAuthSign=1598222976p802i6i831i571S2a102f61560ed26a96b9226e1d85a7d2"
                },
                {
+                    "name": "HAPPY",
+        "uri": "https://717616144.r.worldssl.net/717616144/tv/ttv12/playlist.m3u8"
+               },
+               {
+                    "name": "SH",
+        "uri": "https://717616144.r.worldssl.net/717616144/tv/ttv11/playlist.m3u8"
+               },
+               {
                    "name": "FAP TV 2",
         "uri": "http://50.7.172.58:8081/26/index.m3u8?wmsAuthSign=1598224659p802i6i831i571S8ab4484f1ff22948bb320cb8485c57a1"
              },
