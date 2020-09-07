@@ -469,12 +469,6 @@
      "uri": "http://1.9.62.158/PLTV/88888888/224/3221227634/3221227634.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "http://1.9.58.113:8063/?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4"
-      },
-      {
-        "name": "BEIN SPORTS XTRA",
-        "uri": "https://bein-xtra-roku.amagi.tv/ingest/playlist.m3u8",
-        "drm_scheme": "widevine",
-        "drm_license_url": "http://1.9.58.113:8063/?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4"
       }
     ]
       },
@@ -794,7 +788,7 @@
       },
       {
         "name": "GEM",
-        "uri": "http://103.47.132.164/PLTV/88888888/224/3221227187/index.m3u8"
+        "uri": "https://gist.github.com/angahjee1994/6757725b6e8a61d0a1fbe68cca59b134/raw/7f198dd3b8e5b76917a3779bcd5ab4ae26673ee5/gem.m3u8"
       },
       {
         "name": "LIFETIME",
@@ -1228,21 +1222,21 @@
       },
       {
         "name": "FOX MOVIES",
-        "uri": "http://103.47.132.164/PLTV/88888888/224/3221227119/index.m3u8",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227572/3221227572.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz"
+        "drm_license_url": "http://1.9.58.113:8063/?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4"
       },
       {
         "name": "FOX ACTION MOVIES",
-        "uri": "http://103.47.132.164/PLTV/88888888/224/3221227121/index.m3u8",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227638/3221227638.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz"
+        "drm_license_url": "http://1.9.58.113:8063/?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4"
       },
       {
         "name": "FOX FAMILY MOVIES",
-        "uri": "http://103.47.132.164/PLTV/88888888/224/3221227117/index.m3u8",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227644/3221227644.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz"
+        "drm_license_url": "http://1.9.58.113:8063/?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4"
       },
       {
         "name": "HBO",
@@ -1359,27 +1353,9 @@
       },
       {
         "name": "BEIN SPORTS XTRA",
-        "uri": "https://bein-xtra-roku.amagi.tv/ingest/playlist.m3u8",
+        "uri": "https://bein-plutolive-vo.akamaized.net/playlist.m3u8",
         "drm_scheme": "widevine",
         "drm_license_url": "http://1.9.58.113:8063/?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4"
-      },
-      {
-        "name": "SONY TEN 1",
-        "uri": "http://103.214.202.218:8081/live/ten1hd/playlist.m3u8",
-        "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz"
-      },
-      {
-        "name": "SONY TEN 2",
-        "uri": "http://103.214.202.218:8081/live/ten2hd/playlist.m3u8",
-        "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz"
-      },
-      {
-        "name": "SONY TEN 3",
-        "uri": "http://103.214.202.218:8081/live/ten3hd/playlist.m3u8",
-        "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz"
       },
       {
         "name": "MNC SPORTS 1",
