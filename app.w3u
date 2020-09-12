@@ -7,23 +7,23 @@
    "info": "Sample list for w3u tutorial using publicly available links",
 "stations": [
       {
-         "name": "Timelapse Paris",
+         "name": "TV1",
          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Timelapse_Tour_Eiffel_%C3%A0_Paris.webm/800px--Timelapse_Tour_Eiffel_%C3%A0_Paris.webm.jpg",
          "imageScale": "centerCrop",
-         "url": "https://commons.wikimedia.org/wiki/File:Timelapse_Tour_Eiffel_%C3%A0_Paris.webm",
+         "url": "https://www.layarperak.tv/media/tv1my.php",
          "isHost": true
       },
       {
-         "name": "HTML5 Video",
+         "name": "TV3",
          "image": "https://i.imgur.com/sjrn6Ii.png",
-         "url": "http://clappr.io/demo/",
+         "url": "https://www.dailymotion.com/embed/video/k3GVzd2cWbveXyrApah",
          "embed": true
       },
       {
-         "name": "Me at the zoo",
+         "name": "SUPERSPORT1",
          "image": "https://img.youtube.com/vi/jNQXAC9IVRw/0.jpg",
          "imageScale": "centerCrop",
-         "url": "https://www.youtube.com/watch?v=jNQXAC9IVRw"
+         "url": "http://www.sdw-net.me/channels/Astro-Supersport-1.html"
       }
   ]
 }
