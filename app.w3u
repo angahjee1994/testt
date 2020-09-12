@@ -19,10 +19,30 @@
               "isHost": "true"
             },
             {
+          "name": "SuperSport 1",
+          "image": "https://www.streamonsport.club/img/bein1.png",
+          "url": "http://www.sdw-net.me/channels/Astro-Supersport-1.html",
+            },
+            {
           "name": "SuperSport 2",
           "image": "https://www.streamonsport.club/img/bein1.png",
           "url": "http://www.sdw-net.me/channels/Astro-Supersport-2.html",
             },
+            {
+          "name": "SuperSport 3",
+          "image": "https://www.streamonsport.club/img/bein1.png",
+          "url": "http://www.sdw-net.me/channels/Astro-Supersport-3.html",
+            },
+            {
+          "name": "SuperSport 4",
+          "image": "https://www.streamonsport.club/img/bein1.png",
+          "url": "http://www.sdw-net.me/channels/Astro-Supersport-4.html",
+            },
+            {
+          "name": "WWE Network",
+          "image": "https://www.streamonsport.club/img/bein1.png",
+          "url": "http://www.sdw-net.me/channels/WWE-Network.html",
+            }
             {
           "name": "Bein Sport 1 France s2",
           "image": "https://www.streamonsport.club/img/bein1.png",
