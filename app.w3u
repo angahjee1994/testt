@@ -55,10 +55,11 @@
          "embed": true
       },
       {
-         "name": "Me at the zoo",
-         "image": "https://img.youtube.com/vi/jNQXAC9IVRw/0.jpg",
-         "imageScale": "centerCrop",
-         "url": "https://www.youtube.com/watch?v=jNQXAC9IVRw"
+         "name": "Radio",
+          "image": "http://radiovietnamonline.com/img/equali.gif",
+          "url": "https://cherryradio.com.au/trang-chu",
+          "webviewType": "chrome",
+          "embed": true
       },
       {
          "name": "Radio",
