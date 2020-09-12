@@ -23,6 +23,153 @@
             }
          ]
       },
+        {
+          "name": "SPORTS",
+          "image": "https://bongdatv.net/sites/default/files/originalbdtv.png",
+          "stations": [
+            {
+              "image": "https://i.postimg.cc/wMRGFDFm/lich.jpg",
+              "name": "Lịch thi đấu",
+              "url": "http://hdstreams.club",
+              "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
+              "playInNatPlayer": "true",
+              "embed": "true"
+            },
+            {
+              "name": "CH 1",
+              "image": "https://bongdatv.net/sites/default/files/originalbdtv.png",
+              "url": "http://hdstreams.club/page/ch1.php",
+              "isHost": "true"
+            },
+            {
+              "name": "CH 2",
+              "image": "https://bongdatv.net/sites/default/files/originalbdtv.png",
+              "url": "http://hdstreams.club/page/ch2.php",
+              "isHost": "true"
+            },
+            {
+              "name": "CH 3",
+              "image": "https://bongdatv.net/sites/default/files/originalbdtv.png",
+              "url": "http://hdstreams.club/page/ch3.php",
+              "isHost": "true"
+            },
+            {
+              "name": "CH 4",
+              "image": "https://bongdatv.net/sites/default/files/originalbdtv.png",
+              "url": "http://hdstreams.club/page/ch4.php",
+              "isHost": "true"
+            },
+            {
+              "name": "CH 5",
+              "image": "https://bongdatv.net/sites/default/files/originalbdtv.png",
+              "url": "http://hdstreams.club/page/ch5.php",
+              "isHost": "true"
+            },
+            {
+              "name": "CH 6",
+              "image": "https://bongdatv.net/sites/default/files/originalbdtv.png",
+              "url": "http://hdstreams.club/page/ch6.php",
+              "isHost": "true"
+            },
+            {
+              "name": "CH 7",
+              "image": "https://bongdatv.net/sites/default/files/originalbdtv.png",
+              "url": "http://hdstreams.club/page/ch7.php",
+              "isHost": "true"
+            },
+            {
+              "name": "CH 8",
+              "image": "https://bongdatv.net/sites/default/files/originalbdtv.png",
+              "url": "http://hdstreams.club/page/ch8.php",
+              "isHost": "true"
+            },
+            {
+              "name": "CH 9",
+              "image": "https://bongdatv.net/sites/default/files/originalbdtv.png",
+              "url": "http://hdstreams.club/page/ch9.php",
+              "isHost": "true"
+            },
+            {
+              "name": "CH 10",
+              "image": "https://bongdatv.net/sites/default/files/originalbdtv.png",
+              "url": "http://hdstreams.club/page/ch10.php",
+              "isHost": "true"
+            },
+            {
+              "name": "CH 11",
+              "image": "https://bongdatv.net/sites/default/files/originalbdtv.png",
+              "url": "http://hdstreams.club/page/ch11.php",
+              "isHost": "true"
+            },
+            {
+              "name": "CH 12",
+              "image": "https://bongdatv.net/sites/default/files/originalbdtv.png",
+              "url": "http://hdstreams.club/page/ch12.php",
+              "isHost": "true"
+            },
+            {
+              "name": "CH13",
+              "image": "https://bongdatv.net/sites/default/files/originalbdtv.png",
+              "url": "http://hdstreams.club/page/ch13.php",
+              "isHost": "true"
+            },
+            {
+              "name": "CH 14",
+              "image": "https://bongdatv.net/sites/default/files/originalbdtv.png",
+              "url": "http://hdstreams.club/page/ch14.php",
+              "isHost": "true"
+            },
+            {
+              "name": "CH 15",
+              "image": "https://bongdatv.net/sites/default/files/originalbdtv.png",
+              "url": "http://hdstreams.club/page/ch15.php",
+              "isHost": "true"
+            },
+            {
+              "name": "CH 16",
+              "image": "https://bongdatv.net/sites/default/files/originalbdtv.png",
+              "url": "http://hdstreams.club/page/ch16.php",
+              "isHost": "true"
+            },
+            {
+              "name": "CH 17",
+              "image": "https://bongdatv.net/sites/default/files/originalbdtv.png",
+              "url": "http://hdstreams.club/page/ch17.php",
+              "isHost": "true"
+            },
+            {
+              "name": "CH 18",
+              "image": "https://bongdatv.net/sites/default/files/originalbdtv.png",
+              "url": "http://hdstreams.club/page/ch18.php",
+              "isHost": "true"
+            },
+            {
+              "name": "CH 19",
+              "image": "https://bongdatv.net/sites/default/files/originalbdtv.png",
+              "url": "http://hdstreams.club/page/ch19.php",
+              "isHost": "true"
+            },
+            {
+              "name": "CH 20",
+              "image": "https://bongdatv.net/sites/default/files/originalbdtv.png",
+              "url": "http://hdstreams.club/page/ch20.php",
+              "isHost": "true"
+            },
+            {
+              "name": "CH 21",
+              "image": "https://bongdatv.net/sites/default/files/originalbdtv.png",
+              "url": "http://hdstreams.club/page/ch21.php",
+              "isHost": "true"
+            },
+            {
+              "name": "CH 22",
+              "image": "https://bongdatv.net/sites/default/files/originalbdtv.png",
+              "url": "http://hdstreams.club/page/ch22.php",
+              "isHost": "true"
+            }
+          ]
+        }
+      ],
       { 
          "name": "Live",
          "image": "https://i.imgur.com/WP7j2dX.png",
