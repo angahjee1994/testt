@@ -7,136 +7,22 @@
    "info": "Sample list for w3u tutorial using publicly available links",
 "stations": [
             {
-              "name": "CH 1",
+              "name": "TV1",
               "image": "https://bongdatv.net/sites/default/files/originalbdtv.png",
-              "url": "http://hdstreams.club/page/ch1.php",
+              "url": "https://myklik.rtm.gov.my/channel/tv-1",
               "isHost": "true"
             },
             {
-              "name": "CH 2",
-              "image": "https://bongdatv.net/sites/default/files/originalbdtv.png",
-              "url": "http://hdstreams.club/page/ch2.php",
-              "isHost": "true"
+          "name": "SuperSport 2",
+          "image": "https://www.streamonsport.club/img/bein1.png",
+          "url": "http://shadow.go.ro/sdwnet/channels/usa/player/astro-supersport2.php",
+          "referrer": "http://www.sdw-net.me/channels/Astro-Supersport-2.html"
             },
             {
-              "name": "CH 3",
-              "image": "https://bongdatv.net/sites/default/files/originalbdtv.png",
-              "url": "http://hdstreams.club/page/ch3.php",
-              "isHost": "true"
-            },
-            {
-              "name": "CH 4",
-              "image": "https://bongdatv.net/sites/default/files/originalbdtv.png",
-              "url": "http://hdstreams.club/page/ch4.php",
-              "isHost": "true"
-            },
-            {
-              "name": "CH 5",
-              "image": "https://bongdatv.net/sites/default/files/originalbdtv.png",
-              "url": "http://hdstreams.club/page/ch5.php",
-              "isHost": "true"
-            },
-            {
-              "name": "CH 6",
-              "image": "https://bongdatv.net/sites/default/files/originalbdtv.png",
-              "url": "http://hdstreams.club/page/ch6.php",
-              "isHost": "true"
-            },
-            {
-              "name": "CH 7",
-              "image": "https://bongdatv.net/sites/default/files/originalbdtv.png",
-              "url": "http://hdstreams.club/page/ch7.php",
-              "isHost": "true"
-            },
-            {
-              "name": "CH 8",
-              "image": "https://bongdatv.net/sites/default/files/originalbdtv.png",
-              "url": "http://hdstreams.club/page/ch8.php",
-              "isHost": "true"
-            },
-            {
-              "name": "CH 9",
-              "image": "https://bongdatv.net/sites/default/files/originalbdtv.png",
-              "url": "http://hdstreams.club/page/ch9.php",
-              "isHost": "true"
-            },
-            {
-              "name": "CH 10",
-              "image": "https://bongdatv.net/sites/default/files/originalbdtv.png",
-              "url": "http://hdstreams.club/page/ch10.php",
-              "isHost": "true"
-            },
-            {
-              "name": "CH 11",
-              "image": "https://bongdatv.net/sites/default/files/originalbdtv.png",
-              "url": "http://hdstreams.club/page/ch11.php",
-              "isHost": "true"
-            },
-            {
-              "name": "CH 12",
-              "image": "https://bongdatv.net/sites/default/files/originalbdtv.png",
-              "url": "http://hdstreams.club/page/ch12.php",
-              "isHost": "true"
-            },
-            {
-              "name": "CH13",
-              "image": "https://bongdatv.net/sites/default/files/originalbdtv.png",
-              "url": "http://hdstreams.club/page/ch13.php",
-              "isHost": "true"
-            },
-            {
-              "name": "CH 14",
-              "image": "https://bongdatv.net/sites/default/files/originalbdtv.png",
-              "url": "http://hdstreams.club/page/ch14.php",
-              "isHost": "true"
-            },
-            {
-              "name": "CH 15",
-              "image": "https://bongdatv.net/sites/default/files/originalbdtv.png",
-              "url": "http://hdstreams.club/page/ch15.php",
-              "isHost": "true"
-            },
-            {
-              "name": "CH 16",
-              "image": "https://bongdatv.net/sites/default/files/originalbdtv.png",
-              "url": "http://hdstreams.club/page/ch16.php",
-              "isHost": "true"
-            },
-            {
-              "name": "CH 17",
-              "image": "https://bongdatv.net/sites/default/files/originalbdtv.png",
-              "url": "http://hdstreams.club/page/ch17.php",
-              "isHost": "true"
-            },
-            {
-              "name": "CH 18",
-              "image": "https://bongdatv.net/sites/default/files/originalbdtv.png",
-              "url": "http://hdstreams.club/page/ch18.php",
-              "isHost": "true"
-            },
-            {
-              "name": "CH 19",
-              "image": "https://bongdatv.net/sites/default/files/originalbdtv.png",
-              "url": "http://hdstreams.club/page/ch19.php",
-              "isHost": "true"
-            },
-            {
-              "name": "CH 20",
-              "image": "https://bongdatv.net/sites/default/files/originalbdtv.png",
-              "url": "http://hdstreams.club/page/ch20.php",
-              "isHost": "true"
-            },
-            {
-              "name": "CH 21",
-              "image": "https://bongdatv.net/sites/default/files/originalbdtv.png",
-              "url": "http://hdstreams.club/page/ch21.php",
-              "isHost": "true"
-            },
-            {
-              "name": "CH 22",
-              "image": "https://bongdatv.net/sites/default/files/originalbdtv.png",
-              "url": "http://hdstreams.club/page/ch22.php",
-              "isHost": "true"
+          "name": "Bein Sport 1 France s2",
+          "image": "https://www.streamonsport.club/img/bein1.png",
+          "url": "https://csport.xyz/t/1/1.php",
+          "referrer": "https://csport.xyz/stream.php?e=bein%20sport%201&s=1/1"
             }
           ]
         }
