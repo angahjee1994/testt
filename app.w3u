@@ -1,19 +1,11 @@
 { 
-   "name": "w3u list",
-   "author": "w3u author",
+   "name": "live",
+   "author": "test",
    "url": "https://raw.githubusercontent.com/angahjee1994/testt/master/app.w3u",
    "image": "https://i.imgur.com/5rjqSPj.png",
    "contact": "w3u@testmail.com",
    "info": "Sample list for w3u tutorial using publicly available links",
 "stations": [
-      {
-              "image": "https://i.postimg.cc/wMRGFDFm/lich.jpg",
-              "name": "Lịch thi đấu",
-              "url": "http://hdstreams.club",
-              "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
-              "playInNatPlayer": "true",
-              "embed": "true"
-            },
             {
               "name": "CH 1",
               "image": "https://bongdatv.net/sites/default/files/originalbdtv.png",
