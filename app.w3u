@@ -65,6 +65,24 @@
          "image": "https://img.youtube.com/vi/jNQXAC9IVRw/0.jpg",
          "imageScale": "centerCrop",
          "url": "https://www.tonton.com.my/live/tv3"
+      },
+      {
+         "name": "Supersport1",
+         "image": "https://img.youtube.com/vi/jNQXAC9IVRw/0.jpg",
+         "imageScale": "centerCrop",
+         "url": "http://www.sdw-net.me/channels/Astro-Supersport-1.html"
+      },
+      {
+         "name": "WWE",
+         "image": "https://img.youtube.com/vi/jNQXAC9IVRw/0.jpg",
+         "imageScale": "centerCrop",
+         "url": "https://ustvgo.tv/wwe-network/"
+      },
+      {
+         "name": "WWE",
+         "image": "https://img.youtube.com/vi/jNQXAC9IVRw/0.jpg",
+         "imageScale": "centerCrop",
+         "url": "https://ustvgo.tv/wwe-network/"
       }
   ]
 }
