@@ -77,7 +77,7 @@ http://103.47.132.164/PLTV/88888888/224/3221227145/2.m3u8
 #EXTINF:-1 tvg-id="DIS.MY" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428085_ico.png" group-title="Malaysia",DISNEY CHANNEL
 http://103.47.132.164/PLTV/88888888/224/3221227183/2.m3u8
 #EXTINF:-1 tvg-ID="DSJ.ID" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428084_ico.png" group-title="Malaysia",DISNEY JR
-http://103.47.132.165/PLTV/88888888/224/3221227539/4.m3u8
+#http://103.47.132.165/PLTV/88888888/224/3221227539/4.m3u8
 #EXTINF:-1 tvg-ID="" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9706192_ico.png" group-title="Malaysia",LARVA
 #http://ws.flv.nimo.tv/live/su1599512427560r1e0b7afba22fec0a5191643a588e9f06_high.flv
 
@@ -86,7 +86,7 @@ http://103.47.132.164/PLTV/88888888/224/3221227173/2.m3u8
 #EXTINF:-1 tvg-ID="" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9759856_ico.png" group-title="Malaysia",LOVE NATURE 4K
 http://103.47.132.164/PLTV/88888888/224/3221227339/2.m3u8
 #EXTINF:-1 tvg-ID="DIS.US" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428142_ico.png" group-title="Malaysia",DISCOVERY
-http://103.47.132.165/PLTV/88888888/224/3221227169/3.m3u8
+#http://103.47.132.165/PLTV/88888888/224/3221227169/3.m3u8
 #EXTINF:-1 tvg-ID="DIS.Asia" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428146_ico.png" group-title="Malaysia",DISCOVERY ASIA
 http://103.47.132.164/PLTV/88888888/224/3221227161/2.m3u8
 #EXTINF:-1 tvg-id="HIS.IN" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428147_ico.png" group-title="Malaysia",HISTORY
@@ -208,7 +208,7 @@ http://103.214.202.218:8081/live/andprive-28/chunks.m3u8
 
 
 #EXTINF:-1 tvg-name="305" tvg-id="WXY.TW" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9498903_ico.png" group-title="Malaysia",SCM
-http://103.47.132.165/PLTV/88888888/224/3221227147/3.m3u8
+#http://103.47.132.165/PLTV/88888888/224/3221227147/3.m3u8
 #EXTINF:-1 tvg-name="305" tvg-id="" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9706839_ico.png" group-title="Malaysia",MOVIE
 #http://103.47.132.164/PLTV/88888888/224/3221227231/3.m3u8
 
@@ -216,7 +216,7 @@ http://103.47.132.165/PLTV/88888888/224/3221227147/3.m3u8
 http://103.47.132.164/PLTV/88888888/224/3221227233/3.m3u8
 
 #EXTINF:-1 tvg-id="ZBI.ID" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428312_ico.png" group-title="Malaysia",ZEE BIOSKOP
-http://103.47.132.165/PLTV/88888888/224/3221227537/4.m3u8
+#http://103.47.132.165/PLTV/88888888/224/3221227537/4.m3u8
 
 
 #EXTINF:-1 tvg-ID="RTS.MY" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/rtm%20sports.png" group-title="Malaysia",RTM SPORTS
@@ -242,4 +242,4 @@ https://www.livedoomovies.com/02_WWE_720p/chunklist.m3u8
 #EXTINF:-1 tvg-name="305" tvg-id="MTV.us" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/mtv.png" group-title="Malaysia",MTV
 http://161.0.157.5/PLTV/88888888/224/3221226825/index.m3u8
 #EXTINF:-1 tvg-name="305" tvg-id="CHV.Asia" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428309_ico.png" group-title="Malaysia",CHANNEL V
-http://103.47.132.164/PLTV/88888888/224/3221227133/2.m3u8
+#http://103.47.132.164/PLTV/88888888/224/3221227133/2.m3u8
