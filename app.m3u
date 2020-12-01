@@ -59,6 +59,12 @@ https://fvtv.mywire.org/playlist/9uhgasgstp-bfxkgv0t8s.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
+#EXTINF:-1 tvg-ID="Hel.MY" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428052_ico.png" group-title="Malaysia",HYPP PLUS
+http://1.9.58.102/PLTV/88888888/224/3221227598/3221227598.mpd?rrsip=1.9.58.102&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=%2C1005098609%2C110.159.170.178%2C20201201083547%2Curn:Huawei:liveTV:SP000004015718%2C1005098609%2C-1%2C0%2C1%2C%2C%2C2%2C595%2C%2C%2C2%2C3999915%2C0%2C2918163%2C3464650a-d792-902a-8f9e-4380ef7f7ab0%2C%2C%2C2%2C1%2CEND&GuardEncType=2&it=H4sIAAAAAAAAADWOwQ6CMBBE_6bHpguy4qEnjYmJQRPRq1nKUomFaosm_r2ieJ2ZN3lDIMOblUY2FahcYUNqlkFKgFle5VkGzVxVaS4i3wuvE2HIuba3ha9H7HRYnkFJJZMEJKAox7u1Izsti0dXcdDwxw4cnq1hXcdGPilKsjawpaH1vdw7eh2DmyaCy0kNUOFijoig0pkYxrSkeP004kJx6bsbBa633n4B3ZCLLG5krmS5oI51_3Dux-1C_bF5AzKgzBD0AAAA&tenantId=6001
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
 #EXTINF:-1 tvg-ID=".MY" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/parlimen.png" group-title="Malaysia",PARLIMEN
 http://1.9.58.102/PLTV/88888888/224/3221227546/3221227546.mpd
 
