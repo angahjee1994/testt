@@ -58,19 +58,19 @@ https://agsplayback01.astro.com.my/CH1/master_HELLOGOSHOP6_04.m3u8
 
 
 #EXTINF:-1 tvg-ID="Hel.MY" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/prima.png" group-title="Malaysia",PRIMA
-http://vp2p2s.my6868.cc/20477/index.m3u8
+http://vp2p2s.my6868.cc/20477/index.m3u8?auth_key=1598916881-2090652880-0-33828599c8e3c1190c5ac1d383808efa
 
 #EXTINF:-1 tvg-ID="Hel.MY" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/oasis.png" group-title="Malaysia",OASIS
-http://vp2p2s.my6868.cc/20471/index.m3u8
+http://vp2p2s.my6868.cc/20471/index.m3u8?auth_key=1598916881-2090652880-0-33828599c8e3c1190c5ac1d383808efa
 
 #EXTINF:-1 tvg-ID="Hel.MY" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/ria.png" group-title="Malaysia",RIA
-http://vp2p2s.my6868.cc/20421/index.m3u8
+http://vp2p2s.my6868.cc/20421/index.m3u8?auth_key=1598916881-2090652880-0-33828599c8e3c1190c5ac1d383808efa
 
 #EXTINF:-1 tvg-ID="Hel.MY" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/warna.png" group-title="Malaysia",WARNA
-http://vp2p2s.my6868.cc/20424/index.m3u8
+http://vp2p2s.my6868.cc/20424/index.m3u8?auth_key=1598916881-2090652880-0-33828599c8e3c1190c5ac1d383808efa
 
 #EXTINF:-1 tvg-ID="Hel.MY" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/citra.png" group-title="Malaysia",CITRA
-http://vp2p2s.my6868.cc/20425/index.m3u8
+http://vp2p2s.my6868.cc/20425/index.m3u8?auth_key=1598916881-2090652880-0-33828599c8e3c1190c5ac1d383808efa
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -254,7 +254,7 @@ https://rtmbesmobile.secureswiftcontent.com/Origin03/ngrp:RTM3/chunklist_b206400
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
 #EXTINF:-1 tvg-ID="Awa.MY" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428094_ico.png" group-title="Malaysia",AWANI
-https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
+https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8?auth_key=1598916881-2090652880-0-33828599c8e3c1190c5ac1d383808efa
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
@@ -269,7 +269,7 @@ https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 
 
 #EXTINF:-1 tvg-id="Ani.Asia" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/ceria.png" group-title="Malaysia",CERIA
-http://vp2p2s.my6868.cc/20494/index.m3u8
+http://vp2p2s.my6868.cc/20494/index.m3u8?auth_key=1598916881-2090652880-0-33828599c8e3c1190c5ac1d383808efa
 
 
 
@@ -578,7 +578,7 @@ http://1.9.62.158/PLTV/88888888/224/3221227565/3221227565.mpd
 
 
 #EXTINF:-1 tvg-name="304" tvg-id="HIM.MY" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/boo.png" group-title="Malaysia",BOO
-http://vp2p2s.my6868.cc/20420/index.m3u8
+http://vp2p2s.my6868.cc/20420/index.m3u8?auth_key=1598916881-2090652880-0-33828599c8e3c1190c5ac1d383808efa
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -595,11 +595,11 @@ https://liveanevia.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd
 
 #EXTINF:-1 tvg-name="304" tvg-id="Fli.IN" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428153_ico.png" group-title="Malaysia",&FLIX
 #http://103.214.202.218:8081/live/andflix-29/chunks.m3u8
-https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
+https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8?auth_key=1598916881-2090652880-0-33828599c8e3c1190c5ac1d383808efa
 
 
 #EXTINF:-1 tvg-name="305" tvg-id="Pri.IN" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428154_ico.png" group-title="Malaysia",&PRIVE
-https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
+https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8?auth_key=1598916881-2090652880-0-33828599c8e3c1190c5ac1d383808efa
 
 #EXTINF:-1 tvg-name="305" tvg-id="Pri.IN" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/moviesnow.png" group-title="Malaysia",MOVIES NOW
 https://timesnow.airtel.tv/live/MN_pull/master.m3u8
@@ -697,23 +697,23 @@ https://liveanevia.mncnow.id/live/eds/BeIN2/sa_dash_vmx/BeIN2.mpd
 https://fvtv.mywire.org/playlist/bv6thk0ahh-g3zhk99v9q.m3u8
 
 #EXTINF:-1 tvg-id="AS1.MY" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/arena.png" group-title="Malaysia",ARENA
-http://vp2p2s.my6868.cc/20422/index.m3u8
+http://vp2p2s.my6868.cc/20422/index.m3u8?auth_key=1598916881-2090652880-0-33828599c8e3c1190c5ac1d383808efa
 
 #EXTINF:-1 tvg-id="AS1.MY" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/supersport1.png" group-title="Malaysia",SUPERSPORT 1
 http://36.37.252.114:888/Apple/OneTV-043/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AS1.MY" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/supersport2.png" group-title="Malaysia",SUPERSPORT 2
-http://vp2p2s.my6868.cc/20415/index.m3u8
+http://vp2p2s.my6868.cc/20415/index.m3u8?auth_key=1598916881-2090652880-0-33828599c8e3c1190c5ac1d383808efa
 
 #EXTINF:-1 tvg-id="AS3.MY" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/supersport3.png" group-title="Malaysia",SUPERSPORT 3
 http://36.37.252.114:888/Apple/OneTV-044/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AS1.MY" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/supersport4.png" group-title="Malaysia",SUPERSPORT 4
-http://vp2p2s.my6868.cc/20417/index.m3u8
+http://vp2p2s.my6868.cc/20417/index.m3u8?auth_key=1598916881-2090652880-0-33828599c8e3c1190c5ac1d383808efa
 
 
 #EXTINF:-1 tvg-name="305" tvg-id=".Asia" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/astro%20cricket.png" group-title="Malaysia",CRICKET
-http://vp2p2s.my6868.cc/20470/index.m3u8
+http://vp2p2s.my6868.cc/20470/index.m3u8?auth_key=1598916881-2090652880-0-33828599c8e3c1190c5ac1d383808efa
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
